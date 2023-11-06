@@ -1,0 +1,5 @@
+{
+    "Hello": "Hi! how can I help you?",
+    "Wassup?": "Just helping out people.",
+    "Default": "I cannot help you with that"
+}
